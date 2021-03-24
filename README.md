@@ -30,7 +30,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 <img width="1046" alt="schoolsummary_with" src="https://user-images.githubusercontent.com/79600550/112371748-5bad8600-8cb5-11eb-990a-36593b3f6e9f.png">
 
-### Relative performance:
+### Relative Performance
  - Although there is a ~ 0.3% decrease in % of students passing overall, Thomas High School remains to be the second highest performing school in the city school district based on overall passing % (See below). 
 
 <img width="1103" alt="topperforming_without" src="https://user-images.githubusercontent.com/79600550/112372371-176eb580-8cb6-11eb-89e1-c5a1129c8571.png">
@@ -54,7 +54,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="470" alt="reading_grade_with" src="https://user-images.githubusercontent.com/79600550/112374253-40904580-8cb8-11eb-9ca0-ef23bf62dd31.png">
 
 ### Scores by School Spending 
-- Very minor changes to the $634-644 spending range category to which Thomas High School falls under. Changes are as follows (reference images below in usual order):
+- Very minor changes to scores when sorted into spending categories. These changes were seen in the $634-644 spending range category to which Thomas High School falls under. Changes are as follows (reference images below in usual order):
   - 0.01 point decrease in Average Math Score
   - 0.01 point increase in Average Reading Score 
   - 0.02% decrease in % of students passing math 
@@ -65,7 +65,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 <img width="821" alt="spending_with_noformat" src="https://user-images.githubusercontent.com/79600550/112375250-72ee7280-8cb9-11eb-8c50-95a1eb9b846f.png">
 
-- These changes, however, become insignificant once tables are formatted appropriately (See below):
+- These changes, however, become insignificant once tables are formatted appropriately (See below).
 
 <img width="808" alt="spending_without_formatted" src="https://user-images.githubusercontent.com/79600550/112375517-c2cd3980-8cb9-11eb-8ca9-f0efcd9b3add.png">
 

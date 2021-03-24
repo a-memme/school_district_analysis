@@ -38,12 +38,18 @@ Several areas of the data were affected with the removal of ninth grade math and
 ### Math & Reading Scores by Grade 
 
 - Math:
- - No significant changes - 9th grade scores simply displayed as NaN (See below). 
+  - No changes - Ninth grade scores simply displayed as NaN with no changes to other grades (See below). 
 
 <img width="441" alt="math_grade_without" src="https://user-images.githubusercontent.com/79600550/112373753-b0520080-8cb7-11eb-8238-8d8602d7442f.png">
 
 <img width="494" alt="math_grade_with" src="https://user-images.githubusercontent.com/79600550/112373867-d081bf80-8cb7-11eb-873a-da0ec78188d1.png">
 
+- Reading 
+  - Same as above; no changes with ninth grade scores displayed as Nan (See below). 
+
+<img width="457" alt="reading_grade_without" src="https://user-images.githubusercontent.com/79600550/112374185-2d7d7580-8cb8-11eb-9924-f77fa950a114.png">
+
+<img width="470" alt="reading_grade_with" src="https://user-images.githubusercontent.com/79600550/112374253-40904580-8cb8-11eb-9ca0-ef23bf62dd31.png">
 
 
 Using Python3, Pandas, and Jupyter Notebook

@@ -70,7 +70,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="812" alt="spending_with_formatted" src="https://user-images.githubusercontent.com/79600550/112375596-d8426380-8cb9-11eb-8a40-69449c4f81df.png">
 
 ### Scores by School Size 
-- A similar set of extremely minor changes are seen in scores categorized by school size, similarly to those shown in school spending categories. With scores in the medium school-size category, changes are as follows (reference images below in usual order):
+- A set of minor changes are seen in scores categorized by school size, similar to those shown in school spending categories. With scores in the medium school-size category, changes are as follows (reference images below in usual order):
   - 0.01 point decrease in Average Math Score 
   - 0.01 point increase in Average Reading Score 
   - 0.01% decrease in % of students passing math 

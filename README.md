@@ -6,7 +6,7 @@ Reanalyzing school district data with Python, Pandas and Jupyter Notebook. Asses
 Several areas of the data were affected with the removal of ninth grade math and reading scores from Thomas High School, however, many of these changes were usually quite minor. The changes are as follows:
 
 ### District Summary Results
-(for references see images below - the top image references data without ninth grade scores; bottom with)
+(for references see images below - the top image references data without ninth grade scores; bottom with ninth grade scores)
  - a decrease in Average Math Score in the district by 0.1 points (78.9 without grade nine scores; 79 with)
  - a decrease in % of students passing math in the district by 0.2% (74.8% without grade nine scores; 75% with)
  - a decrease in % of students passing reading in the district by 0.3% (85.7% without vs 86% with)
@@ -17,7 +17,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="990" alt="districtsummary_with" src="https://user-images.githubusercontent.com/79600550/112369683-d75a0380-8cb2-11eb-8b83-5c3518b87cc5.png">
 
 ### School Summary Results
-(for references see images below - the top image references data without ninth grade scores; bottom with)
+(for references see images below - the top image references data without ninth grade scores; bottom with ninth grade scores)
   - a decrease in Average Math scores at Thomas High School by ~0.16 points (83.35 without vs 83.42 with)
   - an increase in Average Reading scores at Thomas High School by 0.05 points (83.90 without vs 83.85 without)
   - a decrease in % of students passing math at Thomas High School by ~ 0.08% (93.19% vs 93.27%)
@@ -45,14 +45,14 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="494" alt="math_grade_with" src="https://user-images.githubusercontent.com/79600550/112373867-d081bf80-8cb7-11eb-873a-da0ec78188d1.png">
 
 - Reading 
-  - Same as above; no changes with ninth grade scores displayed as Nan (See below). 
+  - Same as above; no changes and ninth grade scores are displayed as NaN (See below). 
 
 <img width="457" alt="reading_grade_without" src="https://user-images.githubusercontent.com/79600550/112374185-2d7d7580-8cb8-11eb-9924-f77fa950a114.png">
 
 <img width="470" alt="reading_grade_with" src="https://user-images.githubusercontent.com/79600550/112374253-40904580-8cb8-11eb-9ca0-ef23bf62dd31.png">
 
 ### Scores by School Spending 
-- Very minor changes to the $634-644 spending range category (which Thomas High School falls under). Changes are as follows (reference images below in usual order):
+- Very minor changes to the $634-644 spending range category to which Thomas High School falls under. Changes are as follows (reference images below in usual order):
   - 0.01 point decrease in Average Math Score
   - 0.01 point increase in Average Reading Score 
   - 0.02% decrease in % of students passing math 
@@ -70,7 +70,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="812" alt="spending_with_formatted" src="https://user-images.githubusercontent.com/79600550/112375596-d8426380-8cb9-11eb-8a40-69449c4f81df.png">
 
 ### Scores by School Size 
-- A similar set of insignificant changes are seen in scores categorized by school size, similarly to those shown in school spending categories. In scores in the Medium school-size category, changes are as follows (reference images below in usual order):
+- A similar set of extremely minor changes are seen in scores categorized by school size, similarly to those shown in school spending categories. With scores in the medium school-size category, changes are as follows (reference images below in usual order):
   - 0.01 point decrease in Average Math Score 
   - 0.01 point increase in Average Reading Score 
   - 0.01% decrease in % of students passing math 
@@ -81,6 +81,10 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 <img width="779" alt="size_with_noformat" src="https://user-images.githubusercontent.com/79600550/112376504-eb096800-8cba-11eb-970c-58c6fd614927.png">
 
+- Once again, these changes become insignificant once tables are formatted appropriately (See below). 
 
+<img width="795" alt="size_without_formatted" src="https://user-images.githubusercontent.com/79600550/112376932-7edb3400-8cbb-11eb-8777-af232695e4f7.png">
+
+<img width="772" alt="size_with_formatted" src="https://user-images.githubusercontent.com/79600550/112377031-9e725c80-8cbb-11eb-9371-95b89205c614.png">
 
 Using Python3, Pandas, and Jupyter Notebook

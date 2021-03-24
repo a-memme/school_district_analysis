@@ -52,7 +52,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="470" alt="reading_grade_with" src="https://user-images.githubusercontent.com/79600550/112374253-40904580-8cb8-11eb-9ca0-ef23bf62dd31.png">
 
 ### Scores by School Spending 
-- Very minor changes to the $634-644 spending range category (which Thomas High School falls under). Changes are as follows (reference below images as usual):
+- Very minor changes to the $634-644 spending range category (which Thomas High School falls under). Changes are as follows (reference images below in usual order):
   - 0.01 point decrease in Average Math Score
   - 0.01 point increase in Average Reading Score 
   - 0.02% decrease in % of students passing math 
@@ -63,11 +63,23 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 <img width="821" alt="spending_with_noformat" src="https://user-images.githubusercontent.com/79600550/112375250-72ee7280-8cb9-11eb-8c50-95a1eb9b846f.png">
 
-- These changes, however, becomes insignificant once tables are formatted (See below):
+- These changes, however, become insignificant once tables are formatted appropriately (See below):
 
 <img width="808" alt="spending_without_formatted" src="https://user-images.githubusercontent.com/79600550/112375517-c2cd3980-8cb9-11eb-8ca9-f0efcd9b3add.png">
 
 <img width="812" alt="spending_with_formatted" src="https://user-images.githubusercontent.com/79600550/112375596-d8426380-8cb9-11eb-8a40-69449c4f81df.png">
+
+### Scores by School Size 
+- A similar set of insignificant changes are seen in scores categorized by school size, similarly to those shown in school spending categories. In scores in the Medium school-size category, changes are as follows (reference images below in usual order):
+  - 0.01 point decrease in Average Math Score 
+  - 0.01 point increase in Average Reading Score 
+  - 0.01% decrease in % of students passing math 
+  - 0.06% decrease in % of students passing reading 
+  - 0.07% decrease in % of students passing overall 
+
+<img width="792" alt="size_without_noformat" src="https://user-images.githubusercontent.com/79600550/112376415-d1682080-8cba-11eb-8e9f-10e9dc0aa3b1.png">
+
+<img width="779" alt="size_with_noformat" src="https://user-images.githubusercontent.com/79600550/112376504-eb096800-8cba-11eb-970c-58c6fd614927.png">
 
 
 

@@ -87,4 +87,19 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 <img width="772" alt="size_with_formatted" src="https://user-images.githubusercontent.com/79600550/112377031-9e725c80-8cbb-11eb-9371-95b89205c614.png">
 
+### Scores by School Type 
+- Very minor changes in scores when categorized by school type - these changes were seen in the Charter School categorization to which Thomas High School belongs (reference images below in usual order): 
+  - 0.01 point decrease in Average Math Score 
+  - 0.01 point increase in Average Reading Score 
+  - 0.01% decrease in % of students passing math 
+  - 0.03% decrease in % of students passing reading 
+  - 0.04% decrease in % of students passing overall
+
+<img width="759" alt="type_without_noformat" src="https://user-images.githubusercontent.com/79600550/112378295-2147e700-8cbd-11eb-8918-82000c610e7b.png">
+
+<img width="750" alt="type_with_noformat" src="https://user-images.githubusercontent.com/79600550/112378350-3290f380-8cbd-11eb-83c1-af0739880f85.png">
+
+- Finally, these changes too, become insignificant once applying appropriate formatting to the data (See below):
+
+
 Using Python3, Pandas, and Jupyter Notebook

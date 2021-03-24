@@ -53,15 +53,21 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 ### Scores by School Spending 
 - Very minor changes to the $634-644 spending range category (which Thomas High School falls under). Changes are as follows (reference below images as usual):
- - 0.01 point decrease in Average Math Score
- - 0.01 point increase in Average Reading Score 
- - 0.02% decrease in % of students passing math 
- - 0.08% decrease in % of students passing reading 
- - 0.08% decrease in % of students passing overall 
+  - 0.01 point decrease in Average Math Score
+  - 0.01 point increase in Average Reading Score 
+  - 0.02% decrease in % of students passing math 
+  - 0.08% decrease in % of students passing reading 
+  - 0.08% decrease in % of students passing overall 
 
 <img width="820" alt="spending_without_noformat" src="https://user-images.githubusercontent.com/79600550/112375165-5b16ee80-8cb9-11eb-9aa5-4b51e3c3633f.png">
 
 <img width="821" alt="spending_with_noformat" src="https://user-images.githubusercontent.com/79600550/112375250-72ee7280-8cb9-11eb-8c50-95a1eb9b846f.png">
+
+- These changes, however, becomes insignificant once tables are formatted (See below):
+
+<img width="808" alt="spending_without_formatted" src="https://user-images.githubusercontent.com/79600550/112375517-c2cd3980-8cb9-11eb-8ca9-f0efcd9b3add.png">
+
+<img width="812" alt="spending_with_formatted" src="https://user-images.githubusercontent.com/79600550/112375596-d8426380-8cb9-11eb-8a40-69449c4f81df.png">
 
 
 

@@ -5,11 +5,12 @@ Reanalyzing school district data with Python, Pandas and Jupyter Notebook. Asses
 ## Results 
 Several areas of the data were affected with the removal of ninth grade math and reading scores from Thomas High School, however, many of these changes were usually quite minor. The changes are as follows:
 
-- district summary (for references see images below - the top image references data without ninth grade scores; bottom with):
-  - a decrease in Average Math Score by 0.1 points (78.9 without grade nine scores; 79 with)
-  - a decrease in % of students passing math by 0.2% (74.8% without grade nine scores; 75% with)
-  - a decrease in % of students passing reading by 0.3% (85.7% without vs 86% with)
-  - a decrease in % of students passing overall by 0.1% (64.9% vs 65%)
+### District Summary Results
+(for references see images below - the top image references data without ninth grade scores; bottom with):
+ - a decrease in Average Math Score by 0.1 points (78.9 without grade nine scores; 79 with)
+ - a decrease in % of students passing math by 0.2% (74.8% without grade nine scores; 75% with)
+ - a decrease in % of students passing reading by 0.3% (85.7% without vs 86% with)
+ - a decrease in % of students passing overall by 0.1% (64.9% vs 65%)
 
 <img width="962" alt="districtsummary_without" src="https://user-images.githubusercontent.com/79600550/112369598-bdb8bc00-8cb2-11eb-9098-9efedf93dac4.png">
     

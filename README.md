@@ -101,5 +101,6 @@ Several areas of the data were affected with the removal of ninth grade math and
 
 - Finally, these changes too, become insignificant once applying appropriate formatting to the data (See below):
 
+<img width="750" alt="type_without_formatted" src="https://user-images.githubusercontent.com/79600550/112378541-6ff58100-8cbd-11eb-9576-5b776a93156b.png">
 
-Using Python3, Pandas, and Jupyter Notebook
+<img width="770" alt="type_with_formatted" src="https://user-images.githubusercontent.com/79600550/112378623-856aab00-8cbd-11eb-9968-419488f90e2b.png">

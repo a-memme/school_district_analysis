@@ -16,6 +16,8 @@ Several areas of the data were affected with the removal of ninth grade math and
     
 <img width="990" alt="districtsummary_with" src="https://user-images.githubusercontent.com/79600550/112369683-d75a0380-8cb2-11eb-8b83-5c3518b87cc5.png">
 
+*DataFrames displayed from PyCitySchools_Challenge.ipynb and PyCitySchools.ipynb respectively - see files for more info*
+
 ### School Summary Results
 (for references see images below - the top image references data without ninth grade scores; bottom with ninth grade scores)
   - a decrease in Average Math scores at Thomas High School by ~0.16 points (83.35 without vs 83.42 with)

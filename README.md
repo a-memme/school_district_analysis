@@ -47,7 +47,7 @@ Several areas of the data were affected with the removal of ninth grade math and
 <img width="494" alt="math_grade_with" src="https://user-images.githubusercontent.com/79600550/112373867-d081bf80-8cb7-11eb-873a-da0ec78188d1.png">
 
 - Reading 
-  - Same as above; no changes and ninth grade scores are displayed as NaN (See below). 
+  - Same as above; no changes to other grades; ninth grade scores are displayed as NaN (See below). 
 
 <img width="457" alt="reading_grade_without" src="https://user-images.githubusercontent.com/79600550/112374185-2d7d7580-8cb8-11eb-9924-f77fa950a114.png">
 
